@@ -18,10 +18,10 @@ This project demonstrates how to set up a cloud-based SOC (Security Operations C
 ## Screenshots
 
 ### Attack Map – Minutes After Deployment  
-![Day 0 Map](./screenshots/sentinel_attack_map_day0.jpg)
+![Day 0 Map](./screenshots/sentinel_attack_map_day1.jpg)
 
 ### Attack Map – Next Day  
-![Day 1 Map](./screenshots/sentinel_attack_map_day1.jpg)
+![Day 1 Map](./screenshots/sentinel_attack_map_day0.jpg)
 
 ### GeoIP Enrichment Table  
 ![GeoIP](./screenshots/geoip_results_table.jpg)
